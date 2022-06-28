@@ -1,0 +1,12 @@
+{
+	"name": "pinging-service",
+	"version": "1.0.0",
+	"description": "A pinging service for league of legends garena server with colored numbers",
+	"main": "src/index.ts",
+	"repository": "https://github.com/Gvranjit/pinging-service.git",
+	"author": "gvranjit@gmail.com",
+	"license": "MIT",
+	"dependencies": {
+		"prettier": "^2.7.1"
+	}
+}
